@@ -1,0 +1,17 @@
+Searching 7 files for "index.html"
+
+/home/k4/verti/app/views/pages/login.html.erb:
+   28            <div class="modal-footer">
+   29              <button class="btn btn-warning pull-left">Forgot Your Password?</button>
+   30:             <a href="index.html.erb" class="btn btn-primary">Log In</a> </div>
+   31          </div>
+   32        </div>
+
+/home/k4/verti/app/views/pages/register.html.erb:
+   29              </fieldset>
+   30            </div>
+   31:           <div class="modal-footer"> <a href="login.html.erb" class="btn btn-warning pull-left">Already a Member?</a> <a href="index.html.erb" class="btn btn-primary">Register!</a> </div>
+   32          </div>
+   33        </div>
+
+2 matches across 2 files
